@@ -1,1 +1,1 @@
-# solvd-cv
+# https://oksanakond.github.io/solvd-cv/cv
